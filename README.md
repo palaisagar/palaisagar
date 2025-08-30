@@ -7,8 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=palaisagar" alt="palaisagar" /></a> </p>
 
 <br/>
-
-<img align="center" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
+<p align="center">
+  <img height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
+</p>
 
 
 ## 🚀 About Me
