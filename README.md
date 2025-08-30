@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="center" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<img align="center" height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212750999-42ff8a64-dad8-4772-9648-849968543991.gif" />
 
 
 ## 🚀 About Me
@@ -18,11 +18,9 @@
 - ⚡ Skilled **Prompt Engineer** for AI and automation solutions.  
 - 💡 Creative **Graphic Designer**, passionate about visual storytelling.
 
+  
+
 ## 🛠️ Tech Stack
-
-
-
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -77,26 +75,8 @@
 
 ## 📊 GitHub Stats
 
-  <img src="https://github-readme-stats.vercel.app/api?username=palaisagar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <p><img src="https://github-readme-stats.vercel.app/api?username=palaisagar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palaisagar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
 
-
-
-
-<!---
-
-
-
-**palaisagar/palaisagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
